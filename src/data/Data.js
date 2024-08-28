@@ -83,13 +83,13 @@ const Data = {
     },
   ],
   contact: {
-    email: "itsmeaman26266@gmail.com",
-    phone: "6201235605",
-    address: "Pipra Chanki, Narkatiaganj, West Champaran",
+    email: "aman22verma10@gmail.com",
+    phone: "8188878968",
+    address: "Vidhayak Road, Jairam Nagar, Fatehpur",
     socialLinks: {
-      linkedin: "https://www.linkedin.com/in/aman-raj-903251220/",
-      github: "https://github.com/amanraj26266",
-      twitter: "https://x.com/ErAmanRaj4u",
+      linkedin: "https://www.linkedin.com/in/aman-kumar-verma-262095222/",
+      github: "https://github.com/aman22verma10",
+      twitter: "https://x.com/AmanKumarV29416",
     },
   },
 
