@@ -39,7 +39,7 @@ const Home = () => {
           <a href="https://x.com/AmanKumarV29416">
             <img src="https://banner2.cleanpng.com/20240119/bkq/transparent-x-icon-black-and-white-x-in-the-1710889063979.webp" alt="" className="media" />
           </a>
-          <a href="https://www.facebook.com/a6388762"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZVMWY4NGQ7O_aYRQGUnKKXZ5Q7JPrerBdA&s" alt="" className="media" /></a>
+          <a href="https://www.facebook.com/a6388"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZVMWY4NGQ7O_aYRQGUnKKXZ5Q7JPrerBdA&s" alt="" className="media" /></a>
         </div>
 
         <div className="download" >
